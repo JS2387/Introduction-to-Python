@@ -1,0 +1,59 @@
+Number of words: 967359 
+Number of unique words: 30527 
+Top 5 most common words: 
+the: 30112 
+    Top 3 successors: 
+    king: 786
+    world: 460
+    duke: 388
+and: 28399 
+    Top 3 successors: 
+    the: 856
+    i: 831
+    so: 434
+i: 22622 
+    Top 3 successors: 
+    am: 1960
+    have: 1712
+    will: 1629
+to: 20951 
+    Top 3 successors: 
+    the: 1560
+    be: 1045
+    me: 509
+of: 18821 
+    Top 3 successors: 
+    the: 1624
+    my: 760
+    his: 635
+Frequency table of letters: 
+e: 480970 
+t: 354107 
+o: 332717 
+a: 309408 
+i: 268911 
+s: 266424 
+n: 260133 
+h: 255742 
+r: 251863 
+l: 180723 
+d: 158715 
+u: 137354 
+m: 117435 
+y: 99484 
+w: 96315 
+c: 91697 
+f: 86140 
+g: 72858 
+b: 64067 
+p: 61506 
+v: 40149 
+k: 37823 
+x: 5331 
+j: 4905 
+q: 3961 
+z: 1842 
+è: 32 
+æ: 13 
+﻿: 1 
+à: 1 
